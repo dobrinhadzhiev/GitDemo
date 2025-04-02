@@ -1,4 +1,4 @@
-1- change in master
+1- change in cloned repo from user2
 2
 3
 adding line
