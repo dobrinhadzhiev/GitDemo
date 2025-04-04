@@ -1,5 +1,5 @@
-1- change in cloned repo from user2
-2
-3
+user1 changes line1
+user1 changes line2
+user1 changes line3
 adding line
 change in branch1
