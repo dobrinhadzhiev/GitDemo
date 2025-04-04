@@ -3,5 +3,10 @@ user2 edit line2
 user1 changes line3
 adding line
 change in branch1
+<<<<<<< HEAD
 change this line in main
 another change from user2
+=======
+another change from user2
+one more
+>>>>>>> 545d373 (one more change)
