@@ -1,4 +1,4 @@
-user2 edit line1
+user2 edit line1 change before stash pop
 user2 edit line2
 user1 changes line3
 adding line
